@@ -148,32 +148,64 @@ strong {
     background-color: rgb(176, 0, 0);
 }
 
+.clear-all:hover {
+    background-color: rgb(176, 0, 0, 0.2);
+}
+
 .clear-last {
     background-color: rgb(176, 70, 0);
+}
+
+.clear-last:hover {
+    background-color: rgb(176, 70, 0, .2);
 }
 
 .mod {
     background-color: rgb(169, 152, 0)
 }
 
+.mod:hover {
+    background-color: rgb(169, 152, 0, .2)
+}
+
 .mult {
     background-color: rgb(99, 169, 0);
+}
+
+.mult:hover {
+    background-color: rgb(99, 169, 0, .2);
 }
 
 .div {
     background-color: rgb(0, 169, 141)
 }
 
+.div:hover {
+    background-color: rgb(0, 169, 141, .2)
+}
+
 .sub {
     background-color: rgb(0, 93, 169)
+}
+
+.sub:hover {
+    background-color: rgb(0, 93, 169, .2)
 }
 
 .plus {
     background-color: rgb(101, 0, 169)
 }
 
+.plus:hover {
+    background-color: rgb(101, 0, 169, .2)
+}
+
 .equals {
     background-color: rgb(169, 0, 149)
+}
+
+.equals:hover {
+    background-color: rgb(0, 255, 255, .2)
 }
 
 /* Js */
