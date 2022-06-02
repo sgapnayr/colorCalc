@@ -47,11 +47,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 3px;
+    border-radius: 5px;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
-    border: 5px solid #d0d0d0;
     max-height: 80vh;
     max-width: 60vh;
+    padding: .75rem;
 }
 
 strong {
